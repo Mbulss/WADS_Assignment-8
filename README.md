@@ -1,8 +1,3 @@
-Thought for a couple of seconds
-
-Here’s an updated **README.md** with a **“Screenshots”** section that shows how and where to embed your API‐testing images (Swagger UI, Postman, curl output, etc.)—just drop your actual `.png` files into a `screenshots/` folder and update the file names.
-
-markdown
 # ToDo App (Full-Stack More Focusing In Rest APi And Swagger)
 
 A full-stack ToDo application built as an assignment:
