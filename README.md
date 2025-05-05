@@ -12,28 +12,6 @@ A full-stack ToDo application built as an assignment:
 
 ---
 
-## 📁 Repo Structure
-
-
-todo-api/
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── index.js
-│ ├── package.json
-│ └── .env
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ ├── package.json
-│ └── vite.config.js
-└── README.md
-
-
-
-
-
 ## 🚀 Quick Start
 
 ### 1. Backend
